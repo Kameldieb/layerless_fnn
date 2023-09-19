@@ -1,4 +1,4 @@
-# layerless_fnn
+# Layerless Feedforward Neural Networks with Automatic Architecture Optimization 
 
 To understand what I'm trying to do see [my article on researchgate](https://www.researchgate.net/publication/374025541_Layerless_Feedforward_Neural_Networks_with_Automatic_Architecture_Optimization)
 
